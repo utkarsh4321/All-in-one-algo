@@ -1,2 +1,5 @@
 # All-in-one-algo
-This repo contains the different types of algorithm or program on different language.
+This repo contains different types of algorithms and programs in different programming languages.
+
+# Contribution Guide
+Just fork the repo. Create a program of your choice in any programming language. And submit your **PR**.
